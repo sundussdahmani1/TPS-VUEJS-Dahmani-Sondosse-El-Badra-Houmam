@@ -1,0 +1,70 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Développeur Full Stack Vue.js / Node.js",
+      "company": "TechNova",
+      "location": "Casablanca",
+      "contract": "CDI",
+      "salary": 14000,
+      "experience": 3,
+      "createdAt": "2026-10-20",
+      "description": "Rejoignez une équipe produit pour concevoir des applications web modernes avec Vue 3, Node.js et PostgreSQL. Vous participerez à la conception, au développement et à la revue de code."
+    },
+    {
+      "id": 2,
+      "title": "Ingénieur DevOps",
+      "company": "CloudAtlas",
+      "location": "Rabat",
+      "contract": "CDI",
+      "salary": 18000,
+      "experience": 4,
+      "createdAt": "2026-10-15",
+      "description": "Mise en place et maintenance des pipelines CI/CD, supervision de l'infrastructure sur le cloud, automatisation avec Docker et Kubernetes."
+    },
+    {
+      "id": 3,
+      "title": "Stage PFE – Data Analyst",
+      "company": "DataSafi",
+      "location": "Safi",
+      "contract": "Stage",
+      "salary": 3000,
+      "experience": 0,
+      "createdAt": "2026-10-25",
+      "description": "Stage de fin d'études de six mois : nettoyage de données, tableaux de bord et premières analyses prédictives avec Python et Power BI."
+    },
+    {
+      "id": 4,
+      "title": "Développeur Front-end React",
+      "company": "PixelLab",
+      "location": "Marrakech",
+      "contract": "CDD",
+      "salary": 11000,
+      "experience": 2,
+      "createdAt": "2026-10-10",
+      "description": "Mission de douze mois pour développer des interfaces riches et accessibles, en collaboration avec les équipes design et back-end."
+    },
+    {
+      "id": 5,
+      "title": "Chef de projet digital",
+      "company": "Agence Orion",
+      "location": "Tanger",
+      "contract": "CDI",
+      "salary": 16000,
+      "experience": 5,
+      "createdAt": "2026-09-30",
+      "description": "Pilotage de projets web et mobiles de bout en bout : cadrage, planning, suivi budgétaire et relation client."
+    },
+    {
+      "id": 6,
+      "title": "Intégrateur web freelance",
+      "company": "Studio Kasbah",
+      "location": "Télétravail",
+      "contract": "Freelance",
+      "salary": 8000,
+      "experience": 1,
+      "createdAt": "2026-10-27",
+      "description": "Intégration de maquettes en HTML/CSS responsive pour plusieurs clients. Missions ponctuelles, démarrage immédiat."
+    }
+  ]
+}
